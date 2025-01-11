@@ -1,0 +1,27 @@
+{
+  "name": "desafio-target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p1": "ts-node src/p1.ts",
+    "p2": "ts-node src/p2.ts",
+    "p3": "ts-node src/p3.ts",
+    "p4": "ts-node src/p4.ts",
+    "p5": "ts-node src/p5.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@datastructures-js/stack": "^3.1.4",
+    "@types/fs-extra": "^11.0.4",
+    "fs-extra": "^11.2.0",
+    "ts-node": "^10.9.2"
+  }
+}

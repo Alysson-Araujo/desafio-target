@@ -21,3 +21,5 @@ while (k < indice) {
 
 console.log(soma);
 })();
+
+// Resultado da soma = 91
